@@ -1,0 +1,4 @@
+{
+  "postResponse": "https://jsonplaceholder.typicode.com/posts",
+  "userResponse": "https://jsonplaceholder.typicode.com/users"
+}

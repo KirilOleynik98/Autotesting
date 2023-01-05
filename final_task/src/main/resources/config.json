@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:8080/web/",
+  "basePath": "http://localhost:8080/api/%s",
+  "dbUrl": "jdbc:mysql://localhost:3306/union_reporting",
+  "dbUser": "root",
+  "dbPassword": "password"
+}
